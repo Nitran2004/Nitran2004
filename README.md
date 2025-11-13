@@ -78,6 +78,3 @@ Soy un Ingeniero de Software con más de 3 años de experiencia en desarrollo Fu
 
 ---
 
-
-------
-
